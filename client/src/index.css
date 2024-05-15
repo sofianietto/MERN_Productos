@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.home{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  margin-top: 20%;
+  color: #0A72FE;
+}
+.agregar-producto, .listado-productos{
+  text-align: center;
+  max-width: 940px;
+  font-size: 35px;
+  font-family: Lato, sans-serif;
+  font-weight: 700; /*peso de la letra*/
+  line-height: 1.1; /*altura de la letra*/
+  margin: 40px 0;
+}
